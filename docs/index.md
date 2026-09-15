@@ -54,7 +54,7 @@ Automated updates should *never* be applied to:
 
 ## 8. Reproducibility
 The code used to generate this analysis, audit the validation splits, and export the decision-support queue is fully available in the project repository. 
-* **Repository Link:** (https://github.com/amah67/flyrankmlintern)
+* **Repository Link:** https://github.com/amah67/flyrankmlintern
 * **Notebooks:** See the `work/notebooks/` directory for data ingestion, model training, and playbook generation scripts.
 
 ## 9. Acknowledgments
